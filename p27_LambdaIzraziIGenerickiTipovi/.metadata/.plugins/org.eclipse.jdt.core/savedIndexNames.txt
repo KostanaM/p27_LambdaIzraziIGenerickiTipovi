@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Kostana\Desktop\New folder\IT prekvalifikacije\Predavanja-Eclipse\p27_LambdaIzraziIGenerickiTipovi\.metadata\.plugins\org.eclipse.jdt.core
+3275683839.index
+3425277158.index
+3023685481.index
+625619411.index
+1865797976.index
+758159059.index
+3140396144.index
+1428211036.index
